@@ -1,0 +1,28 @@
+{
+    "students": [
+        {
+            "roll_no": "2320040072",
+            "name": "Bairoju Sai Teja",
+            "mail": "saitejabairoju1@gmail.com",
+            "photo": "known_faces/Sai_Teja.jpg"
+        },
+        {
+            "roll_no": "2320040057",
+            "name": "Karthik",
+            "mail": "karthikb2006@gmail.com",
+            "photo": "known_faces/karthik.jpg"
+        },
+        {
+            "roll_no": "2320040052",
+            "name": "Nikhil",
+            "mail": "sainik2405@gmail.com",
+            "photo": "known_faces/nikhil.jpg"
+        },
+        {
+            "roll_no": "2320040070",
+            "name": "Bairoju Sai Vardhan",
+            "photo": "student_photos\\2320040070_Vardhan.jpg",
+            "mail": "saivardhanbairoju1@gmail.com"
+        }
+    ]
+}

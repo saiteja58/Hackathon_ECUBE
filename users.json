@@ -1,0 +1,133 @@
+{
+    "students": {
+        "student1@klh.edu.in": {
+            "password": "student123",
+            "name": "Alice Johnson",
+            "roll": "CSE001",
+            "email": "student1@klh.edu.in",
+            "profile_pic": "profile_pics/student1@klh.edu.in_profile.jpg",
+            "notifications": [],
+            "queries": []
+        },
+        "2320040052@klh.edu.in": {
+            "password": "1",
+            "name": "Nikhil",
+            "roll": "2320040052",
+            "email": "2320040052@klh.edu.in",
+            "profile_pic": "profile_pics\\2320040052@klh.edu.in_WhatsApp Image 2025-09-13 at 11.24.13 PM.jpeg",
+            "notifications": [],
+            "queries": [
+                {
+                    "faculty_name": "james bond",
+                    "message": "naruto",
+                    "response": "sasuke",
+                    "timestamp": "2025-09-14 04:09:21"
+                },
+                {
+                    "faculty_name": "james bond",
+                    "message": "AOT",
+                    "response": "freedom",
+                    "timestamp": "2025-09-14 04:16:59"
+                },
+                {
+                    "faculty_name": "james bond",
+                    "message": "I am god",
+                    "response": "no u r not",
+                    "timestamp": "2025-09-14 04:21:10"
+                }
+            ]
+        },
+        "2320040072@klh.edu.in": {
+            "password": "1",
+            "name": "sai",
+            "roll": "2320040072",
+            "email": "2320040072@klh.edu.in",
+            "profile_pic": "profile_pics\\2320040072@klh.edu.in_IMG-20240320-WA0027.jpg",
+            "notifications": [],
+            "queries": []
+        }
+    },
+    "faculty": {
+        "faculty1@klh.edu.in": {
+            "password": "faculty123",
+            "name": "Dr. Robert Smith",
+            "faculty_id": "001",
+            "email": "faculty1@klh.edu.in",
+            "profile_pic": "profile_pics/faculty1@klh.edu.in_profile.jpg",
+            "queries": [],
+            "notifications": []
+        },
+        "007@klh.edu.in": {
+            "password": "1",
+            "name": "james bond",
+            "faculty_id": "007",
+            "email": "007@klh.edu.in",
+            "profile_pic": "profile_pics\\007@klh.edu.in_james.png",
+            "queries": [
+                {
+                    "from_student": "Nikhil",
+                    "student_email": "2320040052@klh.edu.in",
+                    "message": "1",
+                    "response": "yes",
+                    "timestamp": "2025-09-14 03:52:46"
+                },
+                {
+                    "from_student": "Nikhil",
+                    "student_email": "2320040052@klh.edu.in",
+                    "message": "thank you",
+                    "timestamp": "2025-09-14 03:56:01",
+                    "response": "u r welcome"
+                },
+                {
+                    "from_student": "Nikhil",
+                    "student_email": "2320040052@klh.edu.in",
+                    "message": "mha",
+                    "response": "ok",
+                    "timestamp": "2025-09-14 04:03:43"
+                },
+                {
+                    "from_student": "Nikhil",
+                    "student_email": "2320040052@klh.edu.in",
+                    "message": "naruto",
+                    "response": "sasuke",
+                    "timestamp": "2025-09-14 04:09:21"
+                },
+                {
+                    "from_student": "Nikhil",
+                    "student_email": "2320040052@klh.edu.in",
+                    "faculty_name": "james bond",
+                    "message": "AOT",
+                    "response": "freedom",
+                    "timestamp": "2025-09-14 04:16:59"
+                },
+                {
+                    "from_student": "Nikhil",
+                    "student_email": "2320040052@klh.edu.in",
+                    "message": "I am god",
+                    "response": "no u r not",
+                    "timestamp": "2025-09-14 04:21:10",
+                    "faculty_name": "james bond"
+                }
+            ],
+            "notifications": []
+        },
+        "sai@klh.edu.in": {
+            "password": "1",
+            "name": "Ravi",
+            "faculty_id": "008",
+            "email": "sai@klh.edu.in",
+            "profile_pic": "profile_pics\\sai@klh.edu.in_IMG-20240320-WA0029.jpg",
+            "queries": [],
+            "notifications": []
+        },
+        "kar@klh.edu.in": {
+            "password": "1",
+            "name": "Karthik",
+            "faculty_id": "002",
+            "email": "kar@klh.edu.in",
+            "profile_pic": "profile_pics\\kar@klh.edu.in_IMG-20240320-WA0031.jpg",
+            "queries": [],
+            "notifications": []
+        }
+    }
+}

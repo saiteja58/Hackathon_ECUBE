@@ -1,0 +1,30 @@
+{
+    "Date": "2025-09-14",
+    "Course": "ASIC",
+    "Records": [
+        {
+            "S.No": 1,
+            "Name": "Bairoju Sai Teja",
+            "Roll No": "2320040072",
+            "Attendance Status": "Present"
+        },
+        {
+            "S.No": 2,
+            "Name": "Karthik",
+            "Roll No": "2320040057",
+            "Attendance Status": "Absent"
+        },
+        {
+            "S.No": 3,
+            "Name": "Nikhil",
+            "Roll No": "2320040052",
+            "Attendance Status": "Absent"
+        },
+        {
+            "S.No": 4,
+            "Name": "Bairoju Sai vardhan",
+            "Roll No": "2320040070",
+            "Attendance Status": "Absent"
+        }
+    ]
+}
