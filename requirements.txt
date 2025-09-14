@@ -3,5 +3,4 @@ opencv-python
 face-recognition
 pandas
 numpy
-cv2
-smtplib
+
